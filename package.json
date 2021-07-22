@@ -1,7 +1,6 @@
 {
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "description": "",
   "main": "greet.js",
   "directories": {
     "test": "test"
@@ -14,5 +13,14 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^9.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo-Pikiso17/bootcamp-terminal-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mo-Pikiso17/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/Mo-Pikiso17/bootcamp-terminal-tests#readme",
+  "description": ""
 }
